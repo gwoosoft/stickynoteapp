@@ -1,2 +1,3 @@
 # stickynoteapp
-Created with CodeSandbox
+
+Wed development course final project modified little bit/ Created with CodeSandbox
